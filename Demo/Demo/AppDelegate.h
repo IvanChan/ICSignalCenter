@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  ICSignal
+//  Demo
 //
-//  Created by _ivanC on 7/1/16.
+//  Created by _ivanC on 12/11/2016.
 //  Copyright © 2016 _ivanC. All rights reserved.
 //
 

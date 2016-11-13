@@ -7,7 +7,7 @@
 //
 
 #import "BView.h"
-#import "ICSignals/ICSignalCenter.h"
+#import "ICSignalCenter.h"
 
 @interface BView ()
 

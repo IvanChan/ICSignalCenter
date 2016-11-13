@@ -7,7 +7,7 @@
 //
 
 #import "AView.h"
-#import "ICSignals/ICSignalCenter.h"
+#import "ICSignalCenter.h"
 
 NSString *const AVIEW_CENTER_SIGNAL = @"AVIEW_CENTER_SIGNAL";
 
