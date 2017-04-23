@@ -1,23 +1,23 @@
 //
-//  ViewController.m
-//  Demo
+//  ICViewController.m
+//  ICSignalCenter
 //
-//  Created by _ivanC on 12/11/2016.
-//  Copyright © 2016 _ivanC. All rights reserved.
+//  Created by aintivanc@icloud.com on 04/23/2017.
+//  Copyright (c) 2017 aintivanc@icloud.com. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ICViewController.h"
 #import "AView.h"
 #import "BView.h"
 
-@interface ViewController ()
+@interface ICViewController ()
 
 @property (strong, nonatomic) AView *aView;
 @property (strong, nonatomic) BView *bView;
 
 @end
 
-@implementation ViewController
+@implementation ICViewController
 
 - (void)viewDidLoad
 {
@@ -34,10 +34,11 @@
     [self.aView startMoving];
 }
 
-- (void)didReceiveMemoryWarning {
+
+- (void)didReceiveMemoryWarning
+{
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 @end

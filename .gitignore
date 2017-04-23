@@ -1,5 +1,4 @@
-
-
-Demo/Demo.xcodeproj/project.xcworkspace/xcuserdata
-
-Demo/Demo.xcodeproj/xcuserdata
+xcuserdata
+Build
+DerivedData
+Example/Pods

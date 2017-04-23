@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ICSignalCenter_Example' do
+  pod 'ICSignalCenter', :path => '../'
+
+  target 'ICSignalCenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

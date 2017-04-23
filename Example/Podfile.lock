@@ -1,0 +1,16 @@
+PODS:
+  - ICSignalCenter (0.8.0.1)
+
+DEPENDENCIES:
+  - ICSignalCenter (from `../`)
+
+EXTERNAL SOURCES:
+  ICSignalCenter:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ICSignalCenter: 6cb28a5b097e90632ceaff2f9f79f91c9f84d640
+
+PODFILE CHECKSUM: eec069d2039427b610aa608b06cd94562802c277
+
+COCOAPODS: 1.2.1
